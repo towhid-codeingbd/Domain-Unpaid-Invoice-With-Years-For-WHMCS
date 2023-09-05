@@ -1,4 +1,4 @@
-# InvoiceUpdater
+# InvoiceUpdater for WHMCS
 
 InvoiceUpdater is a PHP script for updating and processing unpaid invoices in a billing system. It connects to a MySQL database, fetches unpaid invoices, and updates specific invoice items based on predefined criteria.
 
